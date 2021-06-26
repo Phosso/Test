@@ -1,0 +1,92 @@
+body{
+	font-family: 'Time New Romen';
+	font-size: 20px;
+	line-height: 1.6em;
+    background-color: #251c1a;
+}
+
+
+a{
+	text-decoration: none;
+}
+
+header{
+	border-bottom: 3px #f4f4f4 solid;
+	background: #251c1a;
+}
+
+footer{
+	border-top: 3px #f4f4f4f solid;
+	text-align: center;
+	padding-top: 5px;
+}
+main{
+	padding-bottom: 20px;
+    
+}
+
+
+}
+label{
+	display: inline-block;
+	width: 180px;
+}
+input[type="text"]{
+	width: 97%;
+	padding: 4px;
+	border-radius: 5px;
+}
+input[type="number"]{
+	width: 50px;
+	padding: 4px;
+	border-radius: 5px;
+}
+.button {
+  background-color: #653b01; /* Green */
+  border: none;
+  color: #bfa260;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display:block;
+  font-size: 25px;
+	width: 70%;
+	margin: 20px 20px;
+}
+.menu{
+	width:400px;
+	height: 400px;
+	margin: 20px auto;
+}
+.container{
+	width:60%;
+	margin: 0 auto;
+	overflow: auto;
+    color: #a98774;
+    font-size: 25px;
+}
+.container h1 {
+    color: #cead62;
+    text-align: center;
+}
+.container h2 {
+    color: #ff5e00;
+    font-size: 19px;
+}
+a.start{
+	display: inline-block;
+	color:#4caf50;
+	border: 1px dotted #4caf50;
+	padding: 6px 13px;
+}
+li{
+	list-style: none;
+}
+.current{
+	padding: 10px;
+	background: #cead62;
+	border: #000 dotted 1px;
+	margin: 20px 0 10px 0;
+    color: #423821;
+    font-size: 19px;
+}
